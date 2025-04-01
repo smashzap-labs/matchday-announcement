@@ -1,0 +1,142 @@
+[
+    {
+        "home": "SV Pastow",
+        "home_suffix": "",
+        "away": "SV Hafen Rostock 61",
+        "away_suffix": "II",
+        "day": "Sonntag",
+        "time": "09:00",
+        "league": "Kinderfußball",
+        "age_class": "F-Junioren"
+    },
+    {
+        "home": "SV Hafen Rostock 61",
+        "home_suffix": "III",
+        "away": "Güstrower SC 09",
+        "away_suffix": "IV",
+        "day": "Sonntag",
+        "time": "09:00",
+        "league": "Kreisliga",
+        "age_class": "E-Junioren"
+    },
+    {
+        "home": "SV Hafen Rostock 61",
+        "home_suffix": "",
+        "away": "FC Förderkader Rene Schneider",
+        "away_suffix": "",
+        "day": "Sonntag",
+        "time": "09:00",
+        "league": "Kreisliga",
+        "age_class": "E-Junioren"
+    },
+    {
+        "home": "SV Hafen Rostock 61",
+        "home_suffix": "",
+        "away": "FC Anker Wismar",
+        "away_suffix": "II",
+        "day": "Sonntag",
+        "time": "10:00",
+        "league": "Landesliga",
+        "age_class": "B-Junioren"
+    },
+    {
+        "home": "SV Hafen Rostock 61",
+        "home_suffix": "",
+        "away": "SV Warnemünde Fußball",
+        "away_suffix": "",
+        "day": "Sonntag",
+        "time": "13:30",
+        "league": "Landesliga",
+        "age_class": "C-Junioren"
+    },
+    {
+        "home": "Gostorfer SV",
+        "home_suffix": "",
+        "away": "SV Hafen Rostock 61",
+        "away_suffix": "",
+        "day": "Sonntag",
+        "time": "14:00",
+        "league": "Landesliga",
+        "age_class": "A-Junioren"
+    },
+    {
+        "home": "SV Hafen Rostock 61",
+        "home_suffix": "II",
+        "away": "Rostocker FC 95",
+        "away_suffix": "II",
+        "day": "Sonntag",
+        "time": "14:00",
+        "league": "Kreisfreundschaftsspiele",
+        "age_class": "Herren"
+    },
+    {
+        "home": "SV Hafen Rostock 61",
+        "home_suffix": "",
+        "away": "Güstrower SC 09",
+        "away_suffix": "ü40",
+        "day": "Montag",
+        "time": "19:30",
+        "league": "Kreisoberliga",
+        "age_class": "Herren Ü40"
+    },
+    {
+        "home": "SV Hafen Rostock 61",
+        "home_suffix": "II",
+        "away": "SV Teterow 90",
+        "away_suffix": "II",
+        "day": "Samstag",
+        "time": "09:00",
+        "league": "Kreisliga",
+        "age_class": "E-Junioren"
+    },
+    {
+        "home": "SV Hafen Rostock 61",
+        "home_suffix": "II",
+        "away": "FC Rostock United",
+        "away_suffix": "II",
+        "day": "Samstag",
+        "time": "09:00",
+        "league": "Kreisliga",
+        "age_class": "D-Junioren"
+    },
+    {
+        "home": "TSV Rostock 2011",
+        "home_suffix": "",
+        "away": "SV Hafen Rostock 61",
+        "away_suffix": "III",
+        "day": "Samstag",
+        "time": "10:00",
+        "league": "Kreisliga",
+        "age_class": "E-Junioren"
+    },
+    {
+        "home": "SV Hafen Rostock 61",
+        "home_suffix": "II",
+        "away": "TSG Neubukow",
+        "away_suffix": "",
+        "day": "Samstag",
+        "time": "10:30",
+        "league": "Kreisoberliga",
+        "age_class": "B-Junioren"
+    },
+    {
+        "home": "FC Aufbau Sternberg",
+        "home_suffix": "",
+        "away": "SV Hafen Rostock 61",
+        "away_suffix": "",
+        "day": "Samstag",
+        "time": "10:30",
+        "league": "Landesliga",
+        "age_class": "C-Junioren"
+    },
+    {
+        "home": "TSV Bützow",
+        "home_suffix": "",
+        "away": "SV Hafen Rostock 61",
+        "away_suffix": "",
+        "day": "Samstag",
+        "time": "11:30",
+        "league": "Kreisoberliga",
+        "age_class": "D-Junioren"
+    }
+]

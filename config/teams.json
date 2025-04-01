@@ -1,0 +1,93 @@
+{
+    "teams": [
+      {
+        "name": "Schwaaner Eintracht",
+        "logo": "logos/schwaaner-eintracht.svg"
+      },
+      {
+        "name": "SV Hafen Rostock",
+        "logo": "logos/sv-hafen-rostock.svg"
+      },
+      {
+        "name": "SV Pastow",
+        "logo": "logos/.svg"
+      },
+      {
+        "name": "Güstrower SC 09",
+        "logo": "logos/.svg"
+      },
+      {
+        "name": "FC Förderkader Rene Schneider",
+        "logo": "logos/.svg"
+      },
+      {
+        "name": "FC Anker Wismar",
+        "logo": "logos/.svg"
+      },
+      {
+        "name": "SV Warnemünde",
+        "logo": "logos/.svg"
+      },
+      {
+        "name": "Gostorfer SV",
+        "logo": "logos/.svg"
+      },
+      {
+        "name": "Rostocker FC 95",
+        "logo": "logos/.svg"
+      },
+      {
+        "name": "SV Teterow 90",
+        "logo": "logos/.svg"
+      },
+      {
+        "name": "FC Rostock United",
+        "logo": "logos/.svg"
+      },
+      {
+        "name": "TSV Rostock 2011",
+        "logo": "logos/.svg"
+      },
+      {
+        "name": "TSG Neubukow",
+        "logo": "logos/.svg"
+      },
+      {
+        "name": "SG Motor Neptun Rostock",
+        "logo": "logos/.svg"
+      },
+      {
+        "name": "Post SV Rostock",
+        "logo": "logos/.svg"
+      },
+      {
+        "name": "FSV Bentwisch",
+        "logo": "logos/.svg"
+      },
+      {
+        "name": "SV Siedenbollentin",
+        "logo": "logos/.svg"
+      },
+      {
+        "name": "Sievershägener SV 1950",
+        "logo": "logos/.svg"
+      },
+      {
+        "name": "FC Rostock Rangers",
+        "logo": "logos/.svg"
+      },
+      {
+        "name": "FC Schönberg",
+        "logo": "logos/.svg"
+      },
+      {
+        "name": "FC Hands Rostock (D-Mä.)",
+        "logo": "logos/.svg"
+      },
+      {
+        "name": "TSG Gadebusch",
+        "logo": "logos/.svg"
+      }
+    ]
+  }
+  
