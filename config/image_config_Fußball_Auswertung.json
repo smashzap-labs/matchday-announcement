@@ -1,0 +1,16 @@
+{
+    "width": 1080,
+    "height": 1350,
+    "margin_top": 230,
+    "margin_bottom": 200,
+    "margin_left": 150,
+    "indent_right": 400,
+    "font_size_top": 26,
+    "font_size_main": 36,
+    "font_size_score": 40,
+    "font_top":"fill=\"#0862aa\" font-family=\"Franklin Gothic Demi Cond\" font-weight=\"600\"",
+    "font_main":"fill=\"#0862aa\" font-family=\"Franklin Gothic Medium Cond\" font-weight=\"100\"",
+    "font_score":"fill=\"#0862aa\" font-family=\"Franklin Gothic Medium\" font-weight=\"800\"",
+    "background_path": "./config/backgrounds/Spieltagsergebnisse-Fußball.svg"
+}
+  

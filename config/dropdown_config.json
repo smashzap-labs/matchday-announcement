@@ -6,6 +6,7 @@
       "17:00", "17:30", "18:00", "18:30", "19:00", "19:30", "20:00"
     ],
     "leagues": ["", "Kreisklasse", "Kreisliga", "Kreisoberliga", "Landesklasse", "Landesliga", "Verbandsliga"],
-    "age_classes": ["", "Herren", "Frauen", "Ü40", "U19", "A-Jugend", "B-Jugend", "C-Jugend", "D-Jugend", "E-Jugend", "F-Jugend", "G-Jugend"]
+    "age_classes": ["", "Herren", "Frauen", "Ü40", "U19", "A-Jugend", "B-Jugend", "C-Jugend", "D-Jugend", "E-Jugend", "F-Jugend", "G-Jugend"],
+    "sports": ["Fußball", "Tischtennis", "Volleyball"]
   }
   
