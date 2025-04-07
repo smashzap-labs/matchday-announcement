@@ -39,7 +39,7 @@ def generate_match_list_svg(all_matches, base_filename):
 
             for i, chunk in enumerate(chunks):
                 base, ext = os.path.splitext(base_filename)
-                filename = f"{base}-{sport}-{k}-{i}{ext}"
+                filename = f"{base}-{k}-{sport}-{i}{ext}"
 
                 svg_elements = []
                 svg_elements.append(
