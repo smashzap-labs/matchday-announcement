@@ -1,0 +1,16 @@
+{
+    "width": 1080,
+    "height": 1920,
+    "margin_top": 590,
+    "margin_bottom": 205,
+    "margin_left": 100,
+    "indent_right": 360,
+    "font_size_top": 32,
+    "font_size_main": 43,
+    "font_size_score": 48,
+    "font_top":"fill=\"#0862aa\" font-family=\"Franklin Gothic Demi Cond\" font-weight=\"600\"",
+    "font_main":"fill=\"#0862aa\" font-family=\"Franklin Gothic Medium Cond\" font-weight=\"100\"",
+    "font_score":"fill=\"#0862aa\" font-family=\"Franklin Gothic Medium\" font-weight=\"800\"",
+    "background_path": "./config/backgrounds/Spieltagsankündigung-Volleyball.svg"
+}
+  

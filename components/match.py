@@ -34,17 +34,22 @@ class Match:
 
     @classmethod
     def from_dict(cls, data):
+        def s(v, max_length=25):
+            if isinstance(v, str) and len(v) > max_length:
+                return v[:max_length - 3] + "..."
+            return v
+
         return cls(
-            data["home"],
-            data.get("home_suffix", ""),
-            data["away"],
-            data.get("away_suffix", ""),
-            data.get("day", ""),
-            data.get("time", ""),
-            data.get("league", ""),
-            data.get("age_class", ""),
-            data["sport"],
-            data.get("home_score", ""),
-            data.get("away_score", ""),
-            data.get("other", "")
+            s(data["home"]),
+            s(data.get("home_suffix", "")),
+            s(data["away"]),
+            s(data.get("away_suffix", "")),
+            s(data.get("day", "")),
+            s(data.get("time", "")),
+            s(data.get("league", "")),
+            s(data.get("age_class", "")),
+            s(data["sport"]),
+            s(data.get("home_score", "")),
+            s(data.get("away_score", "")),
+            s(data.get("other", ""))
         )

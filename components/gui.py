@@ -128,15 +128,10 @@ class MainWindow(QtWidgets.QMainWindow):
 
         central.setLayout(main_layout)
         self.setCentralWidget(central)
-
+    
     def add_match(self):
-        def shorten_text(text, max_length=25):
-            if len(text) > max_length:
-                return text[:max_length - 3] + "..."
-            return text
-
-        home = shorten_text(self.home_team_edit.text().strip())
-        away = shorten_text(self.away_team_edit.text().strip())
+        home = self.home_team_edit.text().strip()
+        away = self.away_team_edit.text().strip()
         home_suffix = self.home_suffix_edit.text().strip()
         away_suffix = self.away_suffix_edit.text().strip()
         sport = self.sport_combo.currentText()
