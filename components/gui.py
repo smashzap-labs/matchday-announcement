@@ -224,10 +224,26 @@ class MainWindow(QtWidgets.QMainWindow):
         if filename:
             try:
                 import json
+
+                def replace_nulls(obj):
+                    """Ersetzt alle None-Werte rekursiv durch leere Strings."""
+                    if isinstance(obj, dict):
+                        return {k: replace_nulls(v) for k, v in obj.items()}
+                    elif isinstance(obj, list):
+                        return [replace_nulls(i) for i in obj]
+                    elif obj is None:
+                        return ""
+                    else:
+                        return obj
+
                 with open(filename, "r", encoding="utf-8") as f:
                     data = json.load(f)
+
+                data = replace_nulls(data)
+
                 self.matches = [Match.from_dict(item) for item in data]
                 self.update_match_list()
+
             except Exception as e:
                 QtWidgets.QMessageBox.critical(self, "Fehler", f"Fehler beim Laden:\n{e}")
 
