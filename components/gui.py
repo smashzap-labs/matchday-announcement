@@ -48,7 +48,7 @@ class MainWindow(QtWidgets.QMainWindow):
 
         # Sport-Feld
         self.sport_combo = QtWidgets.QComboBox()
-        self.sport_combo.addItems(self.config.get("sports", []))
+        self.sport_combo.addItems(self.config.get("sports", ["Fußball", "Tischtennis", "Volleyball"]))
         form_layout.addRow("Sport:", self.sport_combo)
 
         # Radio-Buttons für den Spieltag (Tage aus config.json)
